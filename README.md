@@ -46,10 +46,10 @@ I worked with real-world style datasets provided in JSON and internal company re
 
 ## 📷 Dashboard Previews
 ### Machine Failures Dashboard
-![Machine Failures](dashboards/Dashboard2.png)
+![Machine Failures](Dashboards/Dashboard2.png)
 
 ### Gender Pay Equality Dashboard
-![Gender Pay Equality](dashboards/Dashboard.png)
+![Gender Pay Equality](Dashboards/Dashboard.png)
 
 ---
 
