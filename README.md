@@ -19,7 +19,7 @@ I worked with real-world style datasets provided in JSON and internal company re
 **My Work:**
 - Cleaned and unified JSON telemetry data.
 - Built Tableau dashboards to visualize machine breakdown frequencies by **location** and **machine type**.
-- Identified Shenzhen as the highest breakdown location (insight from dashboard).
+- Identified Seiko as the highest breakdown location (insight from dashboard).
 - Highlighted top machine types driving the failures.
 
 ---
